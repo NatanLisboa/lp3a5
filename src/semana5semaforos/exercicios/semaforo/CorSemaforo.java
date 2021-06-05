@@ -3,7 +3,7 @@ package semana5semaforos.exercicios.semaforo;
 public enum CorSemaforo {
 	
 	VERDE(1000),
-	AMARELO(300),
+	AMARELO(500),
 	VERMELHO(2000);
 	
 	private int tempoEspera;
