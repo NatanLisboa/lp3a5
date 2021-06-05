@@ -1,4 +1,4 @@
-package semana5semaforos.aula;
+package semana5semaforos.aulas.aulasynchronized;
 
 public class MinhaThreadSoma implements Runnable {
 
